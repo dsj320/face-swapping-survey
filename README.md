@@ -4,7 +4,7 @@ Project page: https://casia-nlprai.github.io/face-swapping-survey/
 
 ## Dataset & Weights
 
-Baidu Pan: https://pan.baidu.com/s/10qwFYk3s8DGqt5EksoGkCA (password: `ihzk`)
+Baidu Pan: https://pan.baidu.com/s/10qwFYk3s8DGqt5EksoGkCA (password: `xxxx`)
 
 ```
 CASIA_FaceSwapping/
