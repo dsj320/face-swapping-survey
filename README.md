@@ -69,12 +69,6 @@ face-swapping-survey/
 
 **Video pairs** (`benchmark/video_pairs_*.txt`): each line is `{source_video} {target_video}`, e.g. `1271-0 0113-1`. For video swapping, extract frame 0 from source as identity, frames 0-99 from target.
 
-### Annotations
-
-`benchmark/anno.csv`: `视频文件名,姓名,性别,年龄,肤色,国籍,场景`
-
-- `肤色`: 黑=Black, 白=Caucasian, 黄=Asian
-- `场景`: 简单=simple, 视角=viewpoint, 表情=expression, 光线=lighting
 
 ## Getting Started
 
