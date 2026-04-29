@@ -9,7 +9,7 @@ Project page: https://casia-nlprai.github.io/face-swapping-survey/
 The face images (`faces/`) and raw videos (`videos/`) are available via Baidu Pan. To obtain the download password, you must:
 
 1. Download and fill out the [**CASIA FaceSwapping Dataset License Agreement**](./CASIA%20FaceSwapping%20Dataset%20License%20Agreement.docx).
-2. Send the **signed agreement** to **qi.li@mais.ia.ac.cn**.
+2. Send the **signed agreement** to  **cripac_3dface@cripac.ia.ac.cn**, with a copy to **qi.li@mais.ia.ac.cn**.
 3. The password will be sent to you via email.
 
 Baidu Pan: https://pan.baidu.com/s/1yaIUvP4gIjTspanO4QQqdw
