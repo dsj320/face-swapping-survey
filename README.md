@@ -174,10 +174,13 @@ Image-level metrics (ID Retrieval, Pose Error, etc.) can also be applied per-fra
 ## Citation
 
 ```bibtex
-@article{li2026highfidelityfaceswapping,
-  title   = {Towards High-Fidelity Face Swapping: A Comprehensive Survey and New Benchmark},
-  author  = {Li, Qi and Wang, Weining and Du, Shuangjun and Peng, Bo and Dong, Jing and Wang, Kun and Sun, Zhenan and Yang, Ming-Hsuan},
-  journal = {arXiv preprint arXiv:2605.00883},
-  year    = {2026}
+@misc{li2026highfidelityfaceswapping,
+      title={Towards High Fidelity Face Swapping: A Comprehensive Survey and New Benchmark},
+      author={Qi Li and Weining Wang and Shuangjun Du and Bo Peng and Jing Dong and Kun Wang and Zhenan Sun and Ming-Hsuan Yang},
+      year={2026},
+      eprint={2605.00883},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.00883}
 }
 ```
