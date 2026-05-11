@@ -14,6 +14,8 @@ The face images (`faces/`) and raw videos (`videos/`) are available via Baidu Pa
 
 Baidu Pan: https://pan.baidu.com/s/1yaIUvP4gIjTspanO4QQqdw
 
+HuggingFace: https://huggingface.co/datasets/budong123/CASIA_FaceSwapping
+
 ```
 CASIA_FaceSwapping/
 ├── faces/                    # Aligned face images ({video_id}_{frame}.png)
@@ -22,9 +24,11 @@ CASIA_FaceSwapping/
 
 ### Pretrained Models
 
-Pretrained model weights and pre-computed identity features are available via Baidu Pan (password: `6vkk`).
+Pretrained model weights and pre-computed identity features are available via Baidu Pan (password: `6vkk`) and HuggingFace.
 
 Baidu Pan: https://pan.baidu.com/s/1fXdbuc_qfOLQjdjGwjSQLg
+
+HuggingFace: https://huggingface.co/budong123/CASIA_FaceSwapping_Models
 
 ```
 pretrained_models/
